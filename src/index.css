@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family:  'Helvetica Neue';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(./static/images/v948-aew-38.jpg);
+  
+  /*background-color: #ffedcb;*/
+  
+  background-size: cover;
+}
+
+.code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container {
+  --bs-bg-opacity: 1;
+ 
+  
+}
+
+.bg-dark{
+  --bs-bg-opacity: 1;
+  background-color: pink; 
+}
+
+
+
+.card {
+  margin-top: 30px;
+}
+
+
+.slim {
+  width: 500px;
+}
+
+.slim button {
+  margin-top: 10px;
+
+}
+
+.LearnNow {
+  font-family:  'Helvetica Neue'; 
+
+}
+
+.bg-dark
+{
+  background-color: brown;
+}
+
+a {
+  color: #97670d ;
+  text-decoration: none;
+} 
+
